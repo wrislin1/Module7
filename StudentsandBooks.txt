@@ -1,0 +1,41 @@
+1. Layton Barrett 001
+2. Bree Bloom 002
+3. Casper Gordon 003
+4. Shaun Crossley 004
+5. Duke Peel 005
+6. Janine Powers 006
+7. Jeanne Milner 007
+8. Johnathan Hulme 008
+9. Adriana Zavala 009
+10. Harvey-Lee Zhang 0010
+11. Matylda Ho 0011
+12. Bradleigh Bautista 0012
+13. Eliot Mcdaniel 0013
+14. Paulina Mcconnell 0014
+15. Ferne Owens 0015
+16. Tamera Clarkson 0016
+17. Harriett Yu 0017
+18. Nishat Winter 0018
+19. Meera Weir 0019
+20. Eilidh Perez 0020
+
+1. In Search of Lost Time by Marcel Proust Copies available: 4
+2. Ulysses by James Joyce Copies available: 4
+3. War and Peace by Leo Tolstoy Copies available: 4
+4. Don Quixote by Miguel de Cervantes Copies available: 4
+5. The Great Gatsby by F. Scott Fitzgerald Copies available: 4
+6. Moby Dick by Herman Melville Copies available: 4
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez Copies available: 4
+8. Jane Eyre by Charlotte Bronte Copies available: 4
+9. Hamlet by William Shakespeare Copies available: 4
+10. Lolita by Vladimir Nabokov Copies available: 4
+11. The Odyssey by Homer Copies available: 4
+12. The Adventures of Huckleberry Finn by Mark Twain Copies available: 4
+13. The Catcher in the Rye by J. D. Salinger Copies available: 4
+14. The Divine Comedy by Dante Alighieri Copies available: 4
+15. Alice's Adventures in Wonderland by Lewis Carroll Copies available: 4
+16. Wuthering Heights by Emily Brontë Copies available: 4
+17. Pride and Prejudice by Jane Austen Copies available: 4
+18. The Sound and the Fury by William Faulkner Copies available: 4
+19. Heart of Darkness by Joseph Conrad Copies available: 4
+20. Catch-22 by Joseph Heller Copies available: 4
